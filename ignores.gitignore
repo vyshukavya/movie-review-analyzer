@@ -1,9 +1,0 @@
-# ignore dataset (keep it local)
-*.csv
-
-# common ignores
-.ipynb_checkpoints/
-__pycache__/
-*.pyc
-.vscode/
-.DS_Store
